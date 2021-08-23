@@ -20,17 +20,12 @@
 
 
 - 🧑 Post-doctoral researcher at [Applied Chemistry](https://dac.nycu.edu.tw/en/) at  [NYCU, Taiwan](https://www.nycu.edu.tw/en/).
-- 
+
 - 🔭 Working on spectroscopic experiments, data analysis and quantum chemical calcualtions.
-- 
 -- Rotational and vibrational spectroscopy
-
 -- Gas and condensed phase spectroscopy
-
 -- Accurate quantum-chemical calculations
-
 -- Polarizability
-
 -- Molecular hydrogen
 
 
