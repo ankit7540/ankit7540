@@ -1,7 +1,5 @@
 
-# Ankit Raj
-
-*Pinned repositories*
+## Pinned repositories
 
 - [**H2-PolarizabilityMatrixElements**](https://github.com/ankit7540/H2-PolarizabilityMatrixElements) : Set of data on polarizability and a python program for the interpolation (of wavelength dependent polarizability) and computation of the matrix elements(for rovibrational states) for molecular hydrogen (and its isotopologues) within the ground electronic state . [![DOI](https://zenodo.org/badge/doi/10.1063/1.5011433.svg)](https://doi.org/10.1063/1.5011433)
 
