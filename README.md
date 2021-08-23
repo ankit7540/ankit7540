@@ -3,7 +3,7 @@
 
 *Pinned repositories*
 
-- [**H2-PolarizabilityMatrixElements**](https://github.com/ankit7540/H2-PolarizabilityMatrixElements) : Set of data on polarizability and a python program for the interpolation (of wavelength dependent polarizability) and computation of the matrix elements(for rovibrational states) for molecular hydrogen (and its isotopologues) within the ground electronic state . [![DOI](https://zenodo.org/badge/doi/10.1063/1.5011433 .svg)](https://doi.org/10.1063/1.5011433)
+- [**H2-PolarizabilityMatrixElements**](https://github.com/ankit7540/H2-PolarizabilityMatrixElements) : Set of data on polarizability and a python program for the interpolation (of wavelength dependent polarizability) and computation of the matrix elements(for rovibrational states) for molecular hydrogen (and its isotopologues) within the ground electronic state . [![DOI](https://zenodo.org/badge/doi/10.1063/1.5011433.svg)](https://doi.org/10.1063/1.5011433)
 
 - [**IntensityCalbr**](https://github.com/ankit7540/IntensityCalbr) : Intensity calibration procedure for spectrometers using multichannel detectors using spectroscopic intensity ratios as standards. (This is for relative intensity calibration and  data from all available Raman bands are treated simultaneously to get wavelength/wavenumber dependent sensitivity after performing the established steps for intensity calibration. [![DOI](https://zenodo.org/badge/doi/10.1002/jrs.6221.svg)](https://doi.org/10.1002/jrs.6221)
 
