@@ -8,12 +8,18 @@
 `Calibration of Raman spectrometers` | `standardization` | `molecular hydrogen` | `Raman standards` 
 
 
-- [**H2-PolarizabilityDerivatives**](https://github.com/ankit7540/H2-PolarizabilityDerivatives) : Set of data on polarizability with programs for obtaining the derivative of polarizability invariants (for H2, HD and D2) for specific inter-nuclear distance specific to a state defined by rovibrational wavefunction. [![DOI](https://zenodo.org/badge/doi/10.1080/00268976.2019.1632950.svg)](https://doi.org/10.1080/00268976.2019.1632950)
+- [**H2-PolarizabilityDerivatives**](https://github.com/ankit7540/H2-PolarizabilityDerivatives) : Set of data on polarizability with programs for obtaining the derivative of polarizability invariants (for H2, HD and D2) for specific inter-nuclear distance specific to a state defined by rovibrational wavefunction. [![DOI](https://zenodo.org/badge/doi/10.1080/00268976.2019.1632950.svg)](https://doi.org/10.1080/00268976.2019.1632950) 
+`Molecular polarizability` | `molecular hydrogen` | `derivatives of polarizability invariants` | `Raman intensities`
+
 
 - [**RamanSpecCalibration**](https://github.com/ankit7540/RamanSpecCalibration) : A repository containing programs for determining the intensity calibration curve (or the wavelength sensitivity) for Raman spectrometers (and more)  from the rotational Raman spectra of diatomic hydrogen and its isotopes. [![DOI](https://zenodo.org/badge/doi/10.1002/jrs.5955.svg)](https://doi.org/10.1002/jrs.5955)
+`Calibration of Raman spectrometers` | `standardization` | `molecular hydrogen` | `Raman standards` | `Accurate intensity calibration`
+
 
 
 - [**RamanSpec_BasicOperations**](https://github.com/ankit7540/RamanSpec_BasicOperations) : This repository contains the procedures for mentioned job needed in day to day analysis of spectra. For example, the spectra for vibrational spectroscopy etc.. where the data is in array of 1-D or 2-D waves. [![DOI](https://zenodo.org/badge/50757391.svg)](https://zenodo.org/badge/latestdoi/50757391)
+`Raman data analysis` | `IgorPro` 
+
 
 ---
 
