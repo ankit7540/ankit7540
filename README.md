@@ -2,8 +2,10 @@
 ## Pinned repositories
 
 - [**H2-PolarizabilityMatrixElements**](https://github.com/ankit7540/H2-PolarizabilityMatrixElements) : Set of data on polarizability and a python program for the interpolation (of wavelength dependent polarizability) and computation of the matrix elements(for rovibrational states) for molecular hydrogen (and its isotopologues) within the ground electronic state . [![DOI](https://zenodo.org/badge/doi/10.1063/1.5011433.svg)](https://doi.org/10.1063/1.5011433)
+`molecular hydrogen` | `ro-vibrational wavefunctions` | `polarizability invariants` 
 
 - [**IntensityCalbr**](https://github.com/ankit7540/IntensityCalbr) : Intensity calibration procedure for spectrometers using multichannel detectors using spectroscopic intensity ratios as standards. (This is for relative intensity calibration and  data from all available Raman bands are treated simultaneously to get wavelength/wavenumber dependent sensitivity after performing the established steps for intensity calibration. [![DOI](https://zenodo.org/badge/doi/10.1002/jrs.6221.svg)](https://doi.org/10.1002/jrs.6221)
+`Calibration of Raman spectrometers` | `standardization` | `molecular hydrogen` | `Raman standards` 
 
 
 - [**H2-PolarizabilityDerivatives**](https://github.com/ankit7540/H2-PolarizabilityDerivatives) : Set of data on polarizability with programs for obtaining the derivative of polarizability invariants (for H2, HD and D2) for specific inter-nuclear distance specific to a state defined by rovibrational wavefunction. [![DOI](https://zenodo.org/badge/doi/10.1080/00268976.2019.1632950.svg)](https://doi.org/10.1080/00268976.2019.1632950)
