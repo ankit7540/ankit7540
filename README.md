@@ -20,6 +20,7 @@
 - [**RamanSpec_BasicOperations**](https://github.com/ankit7540/RamanSpec_BasicOperations) : This repository contains the procedures for mentioned job needed in day to day analysis of spectra. For example, the spectra for vibrational spectroscopy etc.. where the data is in array of 1-D or 2-D waves. [![DOI](https://zenodo.org/badge/50757391.svg)](https://zenodo.org/badge/latestdoi/50757391)
 `Raman data analysis` | `IgorPro` 
 
+- [**Raman-Intensity-Approxmn-Test**](https://github.com/ankit7540/Raman-Intensity-Approxmn-Test) : Python module implementing the collocation method for 1D ro-vibrational Schroedinger equation used to test the double harmonic approximation for the Raman intensities of fundamental transition in diatomic molecules. This repo also includes datasets on the ro-vibrational wavefunctions and polarizabilities of 12 selected diatomic molecules. [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.6126144.svg)](https://doi.org/10.5281/zenodo.6126144)
 
 ---
 
