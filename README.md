@@ -1,10 +1,10 @@
 
 ## Pinned repositories
 
-- [**H2-PolarizabilityMatrixElements**](https://github.com/ankit7540/H2-PolarizabilityMatrixElements) : Set of data on polarizability and a python program for the interpolation (of wavelength dependent polarizability) and computation of the matrix elements(for rovibrational states) for molecular hydrogen (and its isotopologues) within the ground electronic state . [![DOI](https://zenodo.org/badge/doi/10.1063/1.5011433.svg)](https://doi.org/10.1063/1.5011433)
+- [**H2-PolarizabilityMatrixElements**](https://github.com/ankit7540/H2-PolarizabilityMatrixElements) : Set of data on polarizability and a python program for the interpolation (of wavelength dependent polarizability) and computation of the matrix elements(for rovibrational states) for molecular hydrogen (and its isotopologues) within the ground electronic state. [![DOI](https://zenodo.org/badge/doi/10.1063/1.5011433.svg)](https://doi.org/10.1063/1.5011433)
 `molecular hydrogen` | `ro-vibrational wavefunctions` | `polarizability invariants` 
 
-- [**IntensityCalbr**](https://github.com/ankit7540/IntensityCalbr) : Intensity calibration procedure for spectrometers using multichannel detectors using spectroscopic intensity ratios as standards. (This is for relative intensity calibration and  data from all available Raman bands are treated simultaneously to get wavelength/wavenumber dependent sensitivity after performing the established steps for intensity calibration. [![DOI](https://zenodo.org/badge/doi/10.1002/jrs.6221.svg)](https://doi.org/10.1002/jrs.6221)
+- [**IntensityCalbr**](https://github.com/ankit7540/IntensityCalbr) : Intensity calibration procedure for Raman spectrometers using multichannel detectors using spectroscopic intensity ratios as standards. (This is for relative intensity calibration and  data from all available Raman bands are treated simultaneously to get wavelength/wavenumber dependent sensitivity after performing the established steps for intensity calibration. [![DOI](https://zenodo.org/badge/doi/10.1002/jrs.6221.svg)](https://doi.org/10.1002/jrs.6221)
 `Calibration of Raman spectrometers` | `standardization` | `molecular hydrogen` | `Raman standards` 
 
 
@@ -17,7 +17,7 @@
 
 
 
-- [**RamanSpec_BasicOperations**](https://github.com/ankit7540/RamanSpec_BasicOperations) : This repository contains the procedures for mentioned job needed in day to day analysis of spectra. For example, the spectra for vibrational spectroscopy etc.. where the data is in array of 1-D or 2-D waves. [![DOI](https://zenodo.org/badge/50757391.svg)](https://zenodo.org/badge/latestdoi/50757391)
+- [**RamanSpec_BasicOperations**](https://github.com/ankit7540/RamanSpec_BasicOperations) : This repository contains the procedures for mentioned job needed in day to day analysis of spectra. For example, the spectra for vibrational spectroscopy etc. where the data is in array of 1-D or 2-D waves. [![DOI](https://zenodo.org/badge/50757391.svg)](https://zenodo.org/badge/latestdoi/50757391)
 `Raman data analysis` | `IgorPro` 
 
 - [**Raman-Intensity-Approxmn-Test**](https://github.com/ankit7540/Raman-Intensity-Approxmn-Test) : Python module implementing the collocation method for 1D ro-vibrational Schroedinger equation used to test the double harmonic approximation for the Raman intensities of fundamental transition in diatomic molecules. This repo also includes datasets on the ro-vibrational wavefunctions and polarizabilities of 12 selected diatomic molecules. [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.6126144.svg)](https://doi.org/10.5281/zenodo.6126144) `1D-Schroedinger Equation` | `Diatomic molecules` | `ro-vibration`
