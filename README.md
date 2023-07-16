@@ -21,17 +21,16 @@
 
 ---
 
-+ 🧑 Post-doctoral researcher at [USIL](https://usilab.nctu.edu.tw/), [Applied Chemistry](https://dac.nycu.edu.tw/en/) at  [NYCU, Taiwan](https://www.nycu.edu.tw/en/).
++ 🧑 Post-doctoral researcher at [Gakushuin University](https://www.sci.gakushuin.ac.jp/en/).
 + 🔭 Working on spectroscopic experiments, data analysis and quantum chemical calculations
-  + Rotational and vibrational spectroscopy
-  + Gas and condensed phase spectroscopy
+  + Rotational and vibrational spectroscopy in gas and condensed phases
   + Accurate quantum-chemical calculations
   + Polarizability
   + Molecular hydrogen
 
 - 📚 I write [research articles](https://orcid.org/0000-0002-2495-3354)
 - Web-programming and server management on linux servers
-- Available on [GitLab](https://gitlab.com/ankit7540)
+- Available on [GitLab](https://gitlab.com/ankit7540) and [personal site](qnta.space)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ankit7540)
