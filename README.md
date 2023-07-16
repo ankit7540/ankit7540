@@ -30,7 +30,7 @@
 
 - 📚 I write [research articles](https://orcid.org/0000-0002-2495-3354)
 - Web-programming and server management on linux servers
-- Available on [GitLab](https://gitlab.com/ankit7540) and [personal site](qnta.space)
+- Available on [GitLab](https://gitlab.com/ankit7540) and [personal site](https://qnta.space).
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ankit7540)
