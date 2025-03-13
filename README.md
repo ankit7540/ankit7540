@@ -33,7 +33,6 @@
 - Available on [GitLab](https://gitlab.com/ankit7540) and [personal site](https://qnta.space).
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ankit7540)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7540&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=16)
 
